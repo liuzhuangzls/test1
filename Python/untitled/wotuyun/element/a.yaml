@@ -1,0 +1,7 @@
+three:
+  wod: com.alltuu.android:android:id/content
+  shanc: com.alltuu.android:android:id/content
+  shouy: com.alltuu.android:android:id/content
+
+
+TextView_class: android.widget.TextVie  # 文本
